@@ -1,0 +1,65 @@
+h1 {
+  font-family: arial; color: slateblue;
+}
+
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    font-family: arial; color: slateblue;
+}
+    
+
+.main-list {
+    font-family: arial;
+}
+
+h1, div, h2, p, li {
+  font-family: Helvetica;
+}
+
+.div {
+    text-indent: 50px;
+}
+    
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+h1 {
+    background-color: cyan;
+}
+
+div {
+    background-color: slateblue;
+    color: white;
+    display: block;
+    width: 300px;
+    border: 25px lightgray;
+    padding: 50px;
+    margin: 50px;
+    
+}
+
+p {
+    background-color: white;
+    outline-style: dotted;
+}
+
+ul li {
+    background: lightgray;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+.heading {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
